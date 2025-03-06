@@ -1,10 +1,10 @@
 # The Erdős Institute: Deep Learning 
-### Spring 2025
+### Summer 2025
 
 Welcome! This is the repo we will be using for the deep learning course. You will be learning from two sources: <a href="https://www.amazon.com/Deep-Learning-PyTorch-Eli-Stevens/dp/1617295264" target="_blank">Deep Learning with PyTorch</a> and <a href="http://github.com/fastai/fastbook" target="_blank">FastAI's main book</a>.
 To learn the material well, you will also meet regularly with a team, who will serve as a study group and a project team. You can form your group on our course page, under "Project/Homework Instructions".
 
-**To get a Deep Learning certificate, you must complete a project by _April 25, 2025_**.
+**To get a Deep Learning certificate, you must complete a project by _August 11, 2025_**.
 
 Please note that all of the Jupyter notebooks are based on the content in Jeremy Howard and Sylvain Gugger's <a href="http://course.fast.ai/" target="_blank">fastai course</a> and corresponding <a href="http://github.com/fastai/fastbook" target="_blank">fastai book</a>.
 
@@ -46,7 +46,7 @@ Week | Deep Learning Fundamentals | Learning PyTorch
 10 | NLP 2: RNNs <br> *fastbook ch. 12* <br> `10_rnns.ipynb` | *n/a*
 11 | NLP 3: Transformers <br> `11_transformers.ipynb` and `other_transformer_resources` | *n/a*
 12 | Productionization <br> *fastbook ch. 2 & 3* <br> `12_productionization.ipynb` | Deployment <br> *PyTorch ch. 15*
-**April 25, 5PM** | **Final Project Due** | 
+**August 11, 5PM** | **Final Project Due** | 
 
 ## Running the Notebooks
 Deep learning requires a lot of memory and it is preferred to use GPUs because CPUs are too slow. There are two options for using these notebooks. 
