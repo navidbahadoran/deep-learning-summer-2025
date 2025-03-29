@@ -63,7 +63,7 @@ Deep learning requires a lot of memory and it is preferred to use GPUs because C
 
 #### _If you choose to run the notebooks locally, you'll need to set up a code environment:_
 
-A code environment allows you to install and use certain packages and tools without conflicting with other programs / environments you have running. For more details about environments, see <a href="http://www.erdosinstitute.org/programs/asynchronous/software-engineering-for-data-scientists/" target="_blank">Erdős' software enginnering course</a>, created by Kevin Nowland.
+A code environment allows you to install and use certain packages and tools without conflicting with other programs / environments you have running.
 
 To set up your environment for this course, run this line of code in your terminal:
 `conda env create -f environment.yml`
