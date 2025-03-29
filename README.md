@@ -1,4 +1,4 @@
-# The Erdős Institute: Deep Learning 
+Deep Learning 
 ### Summer 2025
 
 Welcome! This is the repo we will be using for the deep learning course. You will be learning from two sources: <a href="https://www.amazon.com/Deep-Learning-PyTorch-Eli-Stevens/dp/1617295264" target="_blank">Deep Learning with PyTorch</a> and <a href="http://github.com/fastai/fastbook" target="_blank">FastAI's main book</a>.
